@@ -5,3 +5,6 @@ DOMAIN,renzhecloud.com
 DOMAIN,knowledgebase.renzhecloud.link
 DOMAIN,status.renzhecloud.link
 DOMAIN,renzhesubconverter.com
+DOMAIN-SUFFIX,cdn.jsdelivr.net
+DOMAIN-SUFFIX,fonts.googleapis.com
+DOMAIN-SUFFIX,fonts.gstatic.com
