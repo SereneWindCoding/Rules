@@ -1,0 +1,5 @@
+# EMAIL CLIENT
+
+DOMAIN,pop.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,imap.gmail.com
