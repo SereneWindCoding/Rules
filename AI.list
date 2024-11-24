@@ -1,0 +1,17 @@
+# OpenAI
+
+DOMAIN,chatgpt.com
+DOMAIN,chat.com
+DOMAIN,oaistatic.com
+DOMAIN,oaiusercontent.com
+DOMAIN,openai.com.cdn.cloudflare.net
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,production-openaicom-storage.azureedge.net
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openaicom.imgix.net
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN,anthropic.com
+DOMAIN,claude.ai
+DOMAIN,claudeusercontent.com
+DOMAIN,servd-anthropic-website.b-cdn.net
